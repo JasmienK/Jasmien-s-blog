@@ -1,0 +1,135 @@
+h1{
+  color: black;
+  font-size: 500%;
+  margin-left: 20%;
+  font-family: 'Amatic SC', cursive;
+  padding-top: 30px;
+  padding-bottom: 30px;
+}
+
+.slogan{
+  color: black;
+  font-size: 150%;
+  margin-left: 20%;
+  font-family: 'Special Elite', cursive;
+  position: absolute;
+  top: 85px;
+  left: 10.5%;
+}
+
+a{
+  text-decoration: none;
+  color: black;
+  font-family: 'Questrial', sans-serif;
+}
+
+nav{
+  margin-left: 20%;
+}
+
+.navigatie{
+  margin-right: 5%;
+}
+.navigatie:hover{
+  color: lightblue;
+}
+
+.banner{
+  width: 100%;
+  height: 400px;
+  background-image: url(http://static.tumblr.com/2342d30b9b026289a10960e10d0fc55e/fv0vh9t/SSDnoxl5e/tumblr_static_442nb74ho1k4owggcgg8cc0gg_2048_v2.jpg);
+  background-size: auto;
+  margin-top: 10px;
+  margin-bottom: 10px;
+  position: relative;
+}
+
+.infobox{
+  background-color: rgba(225,225,225,0.75);
+  height: 200px;
+  width: 30%;
+  position: absolute;
+  left: 35%;
+  top: 50px;
+}
+
+h4, h5{
+  text-align: center;
+  font-family: 'Questrial', sans-serif;
+}
+h5{
+  margin-top: 20px;
+  margin-bottom: 50px;
+}
+h4{
+    font-family: 'Special Elite', cursive;
+    font-size: 200%;
+}
+
+.boxes{
+  background-color: white;
+  height: 380px;
+  width: 80%;
+  margin-left: 10%;
+  margin-top: -100px;
+  position: absolute;
+
+}
+
+.afbeelding1, .afbeelding2, .afbeelding3{
+  width: 30%;
+  height: 300px;
+  background-color: lightblue;
+  float: left;
+  margin-top: 40px;
+  margin-left: 2.25%;
+}
+
+.afbeelding1{
+  background-image: url(https://c2.staticflickr.com/8/7200/6945712555_14d50d59fd.jpg);
+  background-size: cover;
+  background-position: center;
+  margin-left: 2.70%;
+}
+.afbeelding2{
+  background-image: url(http://cdn.pcwallart.com/images/california-tumblr-photography-palm-trees-wallpaper-1.jpg);
+  background-size: cover;
+  background-position: center;
+}
+.afbeelding3{
+  background-image: url(http://static.tumblr.com/2342d30b9b026289a10960e10d0fc55e/fv0vh9t/SSDnoxl5e/tumblr_static_442nb74ho1k4owggcgg8cc0gg_2048_v2.jpg);
+  background-size: cover;
+  background-position: center;
+}
+
+.Tekst1, .Tekst2, .Tekst3{
+  width: 30%;
+  height: 300px;
+  background-color: lightblue;
+  float: left;
+  margin-top: 40px;
+  margin-left: 2.25%;
+  margin-bottom: 40px;
+}
+.Tekst1{
+  margin-left: 2.70%;
+}
+p{
+  margin: 7%;
+  font-family: 'Questrial', sans-serif;
+
+}
+
+h3{
+  background-color:  rgba(225,225,225,0.75);
+  text-align: center;
+  padding-top: 30px;
+  padding-bottom: 30px;
+  font-family: 'Amatic SC', cursive;
+  font-size: 220%;
+}
+h6{
+  font-family: 'Questrial', sans-serif;
+  margin-top: 10px;
+  margin-left: 2%;
+}

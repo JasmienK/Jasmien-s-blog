@@ -1,0 +1,155 @@
+h1{
+  color: black;
+  font-size: 500%;
+  margin-left: 20%;
+  font-family: 'Amatic SC', cursive;
+  padding-top: 30px;
+  padding-bottom: 30px;
+}
+
+span{
+  color: black;
+  font-size: 30%;
+  font-family: 'Special Elite', cursive;
+}
+
+a{
+  text-decoration: none;
+  color: black;
+  font-family: 'Questrial', sans-serif;
+}
+
+nav{
+  margin-left: 20%;
+}
+
+.navigatie{
+  margin-right: 5%;
+}
+.navigatie:hover{
+  color: lightblue;
+}
+
+.banner{
+  width: 100%;
+  height: 400px;
+  background-image: url(http://static.tumblr.com/2342d30b9b026289a10960e10d0fc55e/fv0vh9t/SSDnoxl5e/tumblr_static_442nb74ho1k4owggcgg8cc0gg_2048_v2.jpg);
+  background-size: cover;
+  margin-top: 10px;
+  margin-bottom: 10px;
+  position: relative;
+}
+
+.infobox{
+  background-color: rgba(225,225,225,0.75);
+  height: 200px;
+  width: 30%;
+  position: absolute;
+  left: 35%;
+  top: 50px;
+}
+
+h4, h5{
+  text-align: center;
+  font-family: 'Questrial', sans-serif;
+}
+h5{
+  margin-top: 20px;
+  margin-bottom: 50px;
+}
+h4{
+    font-family: 'Special Elite', cursive;
+    font-size: 200%;
+}
+
+.boxes{
+  background-color: white;
+  height: 380px;
+  width: 80%;
+  margin-left: 10%;
+  margin-top: -130px;
+  position: absolute;
+}
+
+.afbeelding1, .afbeelding2, .afbeelding3{
+  width: 30%;
+  height: 300px;
+  background-color: lightblue;
+  float: left;
+  margin-top: 40px;
+  margin-left: 2.25%;
+}
+.afbeelding1:hover, .afbeelding2:hover, .afbeelding3:hover{
+  opacity: 0.6;
+}
+
+.afbeelding1{
+  background-image: url(http://static.tumblr.com/4b1c4bf4250a09bc97254d160b730d4e/wgfjkec/PgFmla9r0/tumblr_static_img_4455.jpg);
+  background-size: cover;
+  background-position: center;
+  margin-left: 2.70%;
+}
+.afbeelding2{
+  background-image: url(http://cdn.pcwallart.com/images/california-tumblr-photography-palm-trees-wallpaper-1.jpg);
+  background-size: cover;
+  background-position: center;
+}
+.afbeelding3{
+  background-image: url(http://static.tumblr.com/a6ef8a013c8ed02dc57b084a9008e248/gvcur6j/Hd2n8ei9z/tumblr_static_dd8nodfr77cw0s0cos4400wcw.jpg);
+  background-size: cover;
+  background-position: center;
+}
+
+h3{
+  background-color:  rgba(225,225,225,0.75);
+  text-align: center;
+  padding-top: 30px;
+  padding-bottom: 30px;
+  font-family: 'Amatic SC', cursive;
+  font-size: 220%;
+}
+h6{
+  font-family: 'Questrial', sans-serif;
+  margin-top: 10px;
+  margin-left: 2%;
+}
+
+.vorige{
+  width: 0;
+  height: 0;
+  border-top: 15px solid transparent;
+  border-right: 35px solid lightblue;
+  border-bottom: 15px solid transparent;
+  margin-top: 70px;
+  margin-left: 7%;
+}
+.vorige:hover{
+  border-right: 35px solid black;
+}
+
+.volgende{
+  width: 0;
+	height: 0;
+	border-top: 15px solid transparent;
+	border-left: 35px solid lightblue;
+	border-bottom: 15px solid transparent;
+  margin-top: -30px;
+  margin-left: 91%;
+}
+.volgende:hover{
+  border-left: 35px solid black;
+}
+
+.balk{
+  height: 42px;
+  width: 100%;
+  background-color: lightblue;
+  margin-top: 210px;
+}
+.youtube{
+  margin-left: 43.5%;
+  margin-right: 3%;
+}
+.twitter{
+  margin-right: 3%;
+}
